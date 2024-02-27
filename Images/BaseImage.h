@@ -26,6 +26,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 #include <Threads/Atomic.h>
 #include <GL/gl.h>
+#include <cstddef>
 
 namespace Images {
 
